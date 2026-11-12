@@ -1,0 +1,14 @@
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.csproj.AssemblyReference.cache
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.frmLogin.resources
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.Properties.Resources.resources
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.csproj.GenerateResource.cache
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.csproj.CoreCompileInputs.cache
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.frmRegister.resources
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\bin\Debug\Act1DB.accdb
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\bin\Debug\Tenorio_Activity1.exe.config
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\bin\Debug\Tenorio_Activity1.exe
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\bin\Debug\Tenorio_Activity1.pdb
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.exe
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.pdb
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.frmMain.resources
+C:\Users\Dion\source\repos\Tenorio_Activity1\Tenorio_Activity1\obj\Debug\Tenorio_Activity1.frmProduct.resources
